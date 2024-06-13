@@ -29,4 +29,11 @@ The Unit Converter App is a sleek, user-friendly mobile application designed to 
 - **UI Framework**: Jetpack Compose
 - **Minimum SDK**: Android API 21 (Lollipop)
 - **Architecture**: MVVM (Model-View-ViewModel) for clear separation of concerns and easy maintainability.
+  
+![WhatsApp Image 2024-06-13 at 21 25 03_342287b1](https://github.com/shibbolithic/unitconvertor/assets/113848272/4bacbcce-b643-47d1-b768-cbfaf16b2592)
+
+![WhatsApp Image 2024-06-13 at 21 24 17_2d142a5f](https://github.com/shibbolithic/unitconvertor/assets/113848272/85f46fd9-0280-4683-87eb-74de6a5bc4fb)
+
+![WhatsApp Image 2024-06-13 at 21 24 29_2e955013](https://github.com/shibbolithic/unitconvertor/assets/113848272/243d960e-2be9-457f-86a3-04fb8be91575)
+
 
