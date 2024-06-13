@@ -30,7 +30,3 @@ The Unit Converter App is a sleek, user-friendly mobile application designed to 
 - **Minimum SDK**: Android API 21 (Lollipop)
 - **Architecture**: MVVM (Model-View-ViewModel) for clear separation of concerns and easy maintainability.
 
-## Installation
-1. Clone the repository from GitHub:
-   ```bash
-   git clone https://github.com/username/unit-converter-app.git
